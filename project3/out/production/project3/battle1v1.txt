@@ -1,0 +1,58 @@
+
+-------------------------------------
+
+Round 1
+droid2 get hit with 5 damage
+Defender health - 25
+Attacker health - 30
+-------------------------------------
+
+Round 2
+droid1 get hit with 5 damage
+Defender health - 25
+Attacker health - 25
+-------------------------------------
+
+Round 3
+droid1 get hit with 5 damage
+Defender health - 20
+Attacker health - 25
+-------------------------------------
+
+Round 4
+droid2 get hit with 5 damage
+Defender health - 20
+Attacker health - 20
+-------------------------------------
+
+Round 5
+droid1 get hit with 5 damage
+Defender health - 15
+Attacker health - 20
+-------------------------------------
+
+Round 6
+droid1 get hit with 5 damage
+Defender health - 10
+Attacker health - 20
+-------------------------------------
+
+Round 7
+droid1 get hit with 5 damage
+Defender health - 5
+Attacker health - 20
+-------------------------------------
+
+Round 8
+droid1 get hit with 5 damage
+Defender health - 0
+Attacker health - 20
+--------------
+
+The winner is droid2
+
+--------------
+The winner is Team2
+
+--------------
+The winner is Team2

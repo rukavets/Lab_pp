@@ -9,10 +9,10 @@ public class Killer extends Droid{
     public int getShield(){return shield;}
 
     public int getAttack(Droid droid2){
-        int actual_damage=droid2.getDamage();
+        int damage=droid2.getDamage();
         int actual_health=this.getHealth();
         Random random = new Random();
-        actual_health-=actual_damage;
+        actual_health-=damage;
         if(random.nextBoolean()){
             actual_health+=shield;
         }
